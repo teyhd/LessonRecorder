@@ -1,2 +1,2 @@
 # LessonRecorder
-testy
+test
