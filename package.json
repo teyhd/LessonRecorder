@@ -1,0 +1,19 @@
+{
+  "name": "record",
+  "version": "1.0.0",
+  "description": "Recorder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teyhd/LessonRecorder.git"
+  },
+  "author": "TEYHD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teyhd/LessonRecorder/issues"
+  },
+  "homepage": "https://github.com/teyhd/LessonRecorder#readme"
+}
